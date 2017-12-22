@@ -38,6 +38,11 @@ $ sudo dnf install texlive-scheme-full
 
 Скачиваем дистрибутив **MacTeX**: https://www.tug.org/mactex/ (2Gb). Пакета **BasicTeX** будет недостаточно. При установке MacTeX Вы можете отказаться от GUI-программ, чтобы сэкономить место на жестком диске.
 
+#### Freebsd:
+```
+https://www.freshports.org/print/texlive-full
+```
+
 #### Windows:
 
 Воспользуйтесь дистрибутивом **MiKTeX**: https://miktex.org/. Необходимые пакеты будут запрошены во время первой сборки.
